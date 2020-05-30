@@ -60,6 +60,21 @@ p {
 	padding: 15px 10px;
 	background-color: #0cae98;
 	color: #fff;
-	cursor: pointer
+	cursor: pointer;
 }
 
+nav li{
+	float: left;
+	margin: 0;
+	padding: 10px 8px 10px 8px;
+	background-color: #333;
+	color: #ccc;
+}
+
+nav a{
+	color: #bbb;
+}
+
+.fx-whiter:hover {
+	color: white;
+}
