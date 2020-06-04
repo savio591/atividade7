@@ -1,19 +1,5 @@
 /*corpos principais*/
-body {
-  
-}
 
-.header {
-  
-}
-
-header {
-  
-}
-
-nav {
-  
-}
 /*cabeçalho*/
 
 .navbar {
@@ -25,9 +11,6 @@ nav {
   width: 100%
 }
 /*--Logo*/
-.logo {
-  
-}
 
 .logo a {
   float: left;
@@ -48,11 +31,6 @@ nav {
   color: white;
 }
 
-.nome-brand h4 {
-  
-}
-
-
 /* --Links de navegação-- */
 .navlinks {
   
@@ -72,26 +50,34 @@ nav {
 .navlinks a:hover {
   color: #ddd
 }
-.cabecalho-nav .row {
+
+/* --Primeiro jumbotron-- */
+.jumbo-1 {
   
+  margin: 5%;
 }
 
-.cabecalho-nav li {
-
+.jumbo-1-contents {
+  
+  display: flex;
+}
+.jumbo-1 a {
+  
+  float: left;
 }
 
-p {
+.jumbo-1 img {
   
+  border-radius: 50% !important;
 }
 
-a {
+.jumbo-1 .jumbo-texto-principal {
   
+  float: right;
+  margin: auto;
 }
 
-ul {
+.jumbo-texto-principal h2{
   
-}
-
-li {
-  
+  font-size: 5em;
 }
