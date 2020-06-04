@@ -40,7 +40,7 @@ nav {
 /* --Links de navegação-- */
 .nome-brand {
   
-  float: inline-start;
+  float: left;
   width: 140px;
   height: 67px;
   margin: 0px 0px 0px -11px;
