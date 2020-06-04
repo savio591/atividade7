@@ -16,22 +16,62 @@ nav {
 }
 /*cabeçalho*/
 
-.cabecalho-nav {
-  
+.navbar {
+  width: 100%;
+  color: #ccc
 }
 
+.navbar-header {
+  width: 100%
+}
 /*--Logo*/
 .logo {
   
 }
 
 .logo a {
+  float: left;
 }
 
 .logo img {
   
 }
+
 /* --Links de navegação-- */
+.nome-brand {
+  
+  float: inline-start;
+  width: 140px;
+  height: 67px;
+  margin: 0px 0px 0px -11px;
+  padding: 20px 0px;
+  color: white;
+}
+
+.nome-brand h4 {
+  
+}
+
+
+/* --Links de navegação-- */
+.navlinks {
+  
+  float: right;
+  height: 64px;
+}
+
+.navlinks li {
+  
+  margin: auto;
+}
+
+.navlinks a {
+  color: #aaa
+}
+
+.navlinks a:hover {
+  color: #ddd
+}
 .cabecalho-nav .row {
   
 }
