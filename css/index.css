@@ -69,15 +69,25 @@
 .jumbo-1 img {
   
   border-radius: 50% !important;
+  width: 30vw;
 }
 
 .jumbo-1 .jumbo-texto-principal {
   
   float: right;
   margin: auto;
+  padding: 0 5%;
 }
 
 .jumbo-texto-principal h2{
   
   font-size: 5em;
+}
+
+.jumbo-texto-principal h3 {
+  
+}
+
+.jumbo-texto-principal h3 span {
+  font-size: 1.15em;
 }
