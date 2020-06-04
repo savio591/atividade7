@@ -91,3 +91,29 @@
 .jumbo-texto-principal h3 span {
   font-size: 1.15em;
 }
+
+.col-sm-4 {
+  margin: auto;
+  padding: 50px 0px;
+}
+.col-sm-4 img{
+  width: 100%;
+}
+
+/*Rodapé*/
+footer {
+  color: #777;
+  margin: 0 0 ;
+}
+
+footer p {
+  font-style: oblique;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.jumbotron {
+  margin: auto;
+  display: grid;
+  padding: 11px 0;
+}
